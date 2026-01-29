@@ -1,0 +1,4 @@
+whisper
+requests
+pyttsx3
+python-dotenv
